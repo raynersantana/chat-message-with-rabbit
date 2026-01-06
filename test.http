@@ -1,0 +1,3 @@
+POST localhost:8080/api/chat/send/fast?username=Rayner&message=test-message
+
+###
